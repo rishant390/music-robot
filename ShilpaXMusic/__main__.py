@@ -54,7 +54,7 @@ async def init():
     )
     await idle()
     await app.stop()
-    LOGGER("ShilpaXMusic").info("Stopping ShilpaXMusic Bot...")
+    LOGGER("ShilpaXMusic").info("Stopping ShilpaX Music Bot...")
 
 
 if __name__ == "__main__":
