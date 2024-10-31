@@ -1,4 +1,4 @@
-idimport math
+import math
 
 from pyrogram.types import InlineKeyboardButton
 
