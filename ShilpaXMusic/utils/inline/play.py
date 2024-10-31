@@ -1,4 +1,4 @@
-import math
+idimport math
 
 from pyrogram.types import InlineKeyboardButton
 
@@ -81,7 +81,7 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
-        [ InlineKeyboardButton(text="sᴏᴍᴜ࿐", url=f"https://t.me/alone_somu6")],
+        [ InlineKeyboardButton(text="sᴏᴍᴜ࿐", url=f"https://t.me/somueditingzone")],
     ]
     return buttons
 
