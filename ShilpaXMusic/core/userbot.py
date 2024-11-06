@@ -72,7 +72,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("College_wali_masti")
+                await self.two.join_chat("somueditingzone")
                 await self.one.join_chat("somueditingzone")
             except:
                 pass
@@ -93,7 +93,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("College_wali_masti")
+                await self.three.join_chat("somueditingzone")
                 await self.one.join_chat("somueditingzone")
             except:
                 pass
@@ -114,7 +114,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("College_wali_masti")
+                await self.four.join_chat("somueditingzone")
                 await self.one.join_chat("somueditingzone")
             except:
                 pass
@@ -135,7 +135,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("College_wali_masti")
+                await self.five.join_chat("somueditingzone")
                 await self.one.join_chat("somueditingzone")
             except:
                 pass
