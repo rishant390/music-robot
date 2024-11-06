@@ -12,7 +12,7 @@ def start_panel(_):
             ),
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
-        [ InlineKeyboardButton(text="๛ᴍʀ.sᴏᴍᴜ࿐", url=f"https://t.me/alone_somu6")],
+        [ InlineKeyboardButton(text="๛ᴍʀ.sɪᴠᴀɴɢ࿐", url=f"https://t.me/Alexu_xd")],
     ]
     return buttons
 
@@ -33,6 +33,6 @@ def private_panel(_):
         [
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
-        [ InlineKeyboardButton(text="๛ᴍʀsᴏᴍᴜ࿐", url=f"https://t.me/alone_somu6")],
+        [ InlineKeyboardButton(text="๛ᴍʀ.sɪᴠᴀɴɢ࿐", url=f"https://t.me/Alexu_xd")],
     ]
     return buttons
